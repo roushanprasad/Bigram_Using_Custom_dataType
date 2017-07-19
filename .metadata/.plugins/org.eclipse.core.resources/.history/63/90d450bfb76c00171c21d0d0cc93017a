@@ -1,0 +1,5 @@
+package com.core;
+
+public class BigramReducer extends Reducer<TextPair, IntWritable, Text, IntWritable> {
+
+}
